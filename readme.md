@@ -64,7 +64,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   + Most bike puechases are done by Feamale over the last 3 years. Approximately 51% of the bike purchases are done by Female compared to 49% of the purchases being done by Male.
   + The Female purchases are 10,000 more than that of Male purchases (numerically).
   
-![](Media/Gender%20based%20bike%20purchase.png)
+![](media_files/Gender%20based%20Bike%20Purchases.png)
 
 + New vs Old Customers Job Industry Distribution
   + Most New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
@@ -73,7 +73,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 
 | Old Customers by Job Industry | New Customers by Job Industry |
 | :------------- | :------------- |
-|![](Media/Old%20Customers%20-%20Job%20Industry.png)|![](Media/New%20Customers%20-%20Job%20Industry.png)|
+|![](media_files/Old%20Customers%20Job%20Industry.png)|![](media_files/New%20Customers%20Job%20Industry.png)|
 
 + Wealth Segmentation by Age Category
   + Across all age categories the largest number of customers are from 'Mass Customer' Segment.
@@ -82,14 +82,14 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 
 | Old Customers Wealth by Age Group | New Customers Wealth by Age Group |
 | :------------- | :------------- |
-|![](Media/Old%20Customers%20-%20Wealth%20by%20Age%20Group.png)|![](Media/New%20Customers%20-%20Wealth%20by%20Age%20Group.png)|
+|![](media_files/Old%20Customers%20Wealth%20Segment.png)|![](media_files/New%20Customers%20Wealth%20Segment.png)|
 
 + Cars owned by States
   + New South Wales has the largest number of people who don't own a car.
   + In Victoria and Queensland the proportion is quite even.
   + In New South Wales the number of people owning a car is significantly lesser than who donot have a car.
 
-![](Media/Cars%20owned%20based%20upon%20states.png)
+![](media_files/Car%20Owners%20by%20State.png)
 
 ### 1. Customer Segmentation and RFM Analysis
 In this stage of analysis the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions.
@@ -109,7 +109,7 @@ In this analysis the customer segment was divided into 11 groups. The groups bei
 + Almost lost Customers
 
 As of the current state of the Automobile business the distribution of customers segments is depicted below:
-![](Media/Number%20of%20Customers%20by%20Customer%20Segment.png)
+![](media_files/Customer%20Segment%20Distribution.png)
 
 + Recency and Frequency vs Monetary Distribution
   + Customers who purchased recently generated more revenue than customers who visited long time ago.
@@ -117,7 +117,7 @@ As of the current state of the Automobile business the distribution of customers
 
 | Recency vs Monetary | Frequency vs Monetary |
 | :------------- | :------------- |
-| ![](Media/Recency%20vs%20Monetary.png) | ![](Media/Frequency%20vs%20Monetary.png) |
+| ![](media_files/Recency%20vs%20Monetary.png) | ![](media_files/Frequency%20vs%20Monetary.png) |
 
 
 ## Datasets Used
