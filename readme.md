@@ -134,7 +134,7 @@ The tools used in this project include:
 + **Tableau**- Business Intelligence tool was required to explore data and visualoize the data by creating charts, graphs to come up with a Sales Dashboard for Customer Segmenatation for a bike company.
 
 ## Built With
-+ Python 3.10.11, Tableau
++ Python 3.10.11, Google Colab, Tableau
 
 ## Authors
 + Chirag Arya - [Github Profile](https://github.com/AryaChirag)
