@@ -14,7 +14,7 @@ The Sales Dashboard for Customer Segmentation can be found [here](https://public
 + [Data_cleaning_customer_demographic.ipynb](https://nbviewer.org/github/AryaChirag/Data-Analytics-Bike-Customer-Segmentation/blob/master/Data_cleaning_customer_demographic.ipynb)
 + [Data_cleaning_new_customer_list.ipynb](https://nbviewer.org/github/AryaChirag/Data-Analytics-Bike-Customer-Segmentation/blob/master/Data_cleaning_new_customer_list.ipynb)
 + [Data_cleaning_transactions.ipynb](https://nbviewer.org/github/AryaChirag/Data-Analytics-Bike-Customer-Segmentation/blob/master/Data_cleaning_transactions.ipynb)
-+ [RFM_analysis.ipynb](https://nbviewer.org/github/AryaChirag/Data-Analytics-Bike-Customer-Segmentation/blob/master/RFM_analysis.ipynb))
++ [RFM_analysis.ipynb](https://nbviewer.org/github/AryaChirag/Data-Analytics-Bike-Customer-Segmentation/blob/master/RFM_analysis.ipynb)
 
 ## Analysis Approach
 
